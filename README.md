@@ -44,22 +44,28 @@ Additionally, Kraft3D includes an **Admin Console** for managing everything on m
 
 ## ⚙️ Tech Stack
 
-Kraft3D is built with modern web technologies, focusing on performance, maintainability, and scalability.
+Kraft3D is built with focus on performance, maintainability, and scalability.
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Frontend**
 
-- **React**: The website’s frontend is developed with **React** to create a dynamic and responsive user interface. Components are organized to streamline the user journey from browsing products to completing a purchase.
-- **React Router**: This is used to manage routing across multiple pages, allowing smooth navigation.
-- **Redux**: **Redux** handles state management, particularly for the cart and user sessions, ensuring that changes across pages are consistent.
-- **Styled Components**: Styling is managed through **Styled Components** for modular and easily reusable CSS, maintaining a clean and uniform look throughout the platform.
+- **React**: The website’s frontend is developed with **React** to create a dynamic and responsive user interface.
 
 ### **Backend**
 
 - **Node.js & Express**: The server side is powered by **Node.js** with **Express** for routing and handling API requests. All core operations, including product listings, orders, user authentication, and workshop bookings, are managed through RESTful API endpoints.
-- **MongoDB**: A **MongoDB** database is utilized for storing and retrieving data. Collections include products, users, orders, and bookings, structured to support rapid access and updates.
-- **JWT Authentication**: Security is ensured with **JWT (JSON Web Tokens)**, protecting user and admin sessions and enabling secure access to sensitive operations.
 
-This tech stack allows Kraft3D to deliver a high-performance, scalable ecommerce solution optimized for both users and administrators.
+- **MongoDB**: A **MongoDB** database is utilized for storing and retrieving data. Collections include products, users, orders, and bookings, structured to support rapid access and updates.
+
+- **JWT Authentication**: Using **JWT (JSON Web Tokens)**, all user data is encrypted when performing sensitive operations.
+
+Kraft3D is a high-performance, scalable e-commerce solution optimized for both users and administrators.
 
 ---
 
