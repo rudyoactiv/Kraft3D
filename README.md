@@ -1,77 +1,66 @@
-# Kraft3D
+# Kraft3D @ [kraft3D.com](kraft3d.rudraneeldutta.com)
 
-Welcome to **Kraft3D** — a modern ecommerce website for high-quality 3D-printed products. Check it out live [here](https://kraft3d.rudraneeldutta.com).
+Welcome to **Kraft3D** — India's most affordable e-commerce platform for my range of high-quality 3D-printed products. Explore the shop [here](https://kraft3d.rudraneeldutta.com).
 
----
 
-## 📖 Overview
+## 📖 Project Overview
 
-Kraft3D is designed to deliver a seamless shopping experience, featuring:
-- A dynamic landing page
-- A curated collection of products
-- Detailed product pages
-- A user-friendly cart
-- A smooth checkout experience
-- An orders page for tracking purchases
-- A unique workshop booking page for 3D printing services
+Kraft3D is designed to provide an intuitive shopping experience with:
+- A unique landing page showcasing featured products
+- A diverse product catalog with all available items
+- Filters to find just the right things
+- Visit each product's page for a complete description
+- Add things to your cart and checkout seamlessly
+- View your orders and track their status
+- Book a workshop with me and schedule training sessions on 3D printing
 
-The platform also includes a powerful **Admin Console** to manage products, orders, and other ecommerce functionalities efficiently.
+Additionally, Kraft3D includes an **Admin Console** for managing everything on my end.
 
 ---
 
 ## 🌐 Pages and Features
 
-### Landing Page
-![Landing Page](./screenshots/landing_page.png)
+| Landing Page | All Products |
+|--------------|--------------|
+| ![Landing Page](./screenshots/landing_page.png) | ![All Products](./screenshots/all_products.png) |
 
-### All Products
-![All Products](./screenshots/all_products.png)
+| Product Page | Cart |
+|--------------|------|
+| ![Product Page](./screenshots/product_page.png) | ![Cart](./screenshots/cart.png) |
 
-### Product Page
-![Product Page](./screenshots/product_page.png)
+| Checkout | Orders Page |
+|----------|-------------|
+| ![Checkout](./screenshots/checkout.png) | ![Orders Page](./screenshots/orders_page.png) |
 
-### Cart
-![Cart](./screenshots/cart.png)
+| Workshop Booking | Admin Console - Product Management |
+|------------------|------------------------------------|
+| ![Workshop Booking](./screenshots/workshop_booking.png) | ![Product Management](./screenshots/admin_product_management.png) |
 
-### Checkout
-![Checkout](./screenshots/checkout.png)
-
-### Orders Page
-![Orders Page](./screenshots/orders_page.png)
-
-### Workshop Booking
-![Workshop Booking](./screenshots/workshop_booking.png)
-
----
-
-## 🔒 Admin Console
-
-The Admin Console provides tools to manage products, track orders, and oversee other key ecommerce operations.
-
-### Product Management
-![Product Management](./screenshots/admin_product_management.png)
-
-### Order Management
-![Order Management](./screenshots/admin_order_management.png)
+| Admin Console - Order Management |
+|----------------------------------|
+| ![Order Management](./screenshots/admin_order_management.png) |
 
 ---
 
 ## ⚙️ Tech Stack
 
-Kraft3D is built on a robust tech stack to ensure high performance and reliability:
+Kraft3D is built with modern web technologies, focusing on performance, maintainability, and scalability.
 
 ### **Frontend**
 
-- **React**: The frontend is developed with **React**, providing a fast, dynamic user experience. **React Router** is utilized for seamless navigation across pages.
-- **Redux**: State management is handled by **Redux**, ensuring consistent and reliable data flow across components, such as the shopping cart and user sessions.
-- **Styled Components**: For modular and reusable styling, **Styled Components** are used to maintain clean and manageable styles.
+- **React**: The website’s frontend is developed with **React** to create a dynamic and responsive user interface. Components are organized to streamline the user journey from browsing products to completing a purchase.
+- **React Router**: This is used to manage routing across multiple pages, allowing smooth navigation.
+- **Redux**: **Redux** handles state management, particularly for the cart and user sessions, ensuring that changes across pages are consistent.
+- **Styled Components**: Styling is managed through **Styled Components** for modular and easily reusable CSS, maintaining a clean and uniform look throughout the platform.
 
 ### **Backend**
 
-- **Node.js & Express**: The backend server is powered by **Node.js** with **Express**, managing API requests and routing. It handles all core operations like product listing, orders, user authentication, and workshop bookings.
-- **MongoDB**: A **MongoDB** database is used to store data securely and efficiently. Data models include products, user profiles, orders, and workshop appointments.
-- **JWT Authentication**: Secure access is ensured with **JWT authentication**, protecting both user and admin actions.
+- **Node.js & Express**: The server side is powered by **Node.js** with **Express** for routing and handling API requests. All core operations, including product listings, orders, user authentication, and workshop bookings, are managed through RESTful API endpoints.
+- **MongoDB**: A **MongoDB** database is utilized for storing and retrieving data. Collections include products, users, orders, and bookings, structured to support rapid access and updates.
+- **JWT Authentication**: Security is ensured with **JWT (JSON Web Tokens)**, protecting user and admin sessions and enabling secure access to sensitive operations.
 
-With a combination of **React** and **Node.js**, Kraft3D ensures a responsive, scalable, and performant experience for all users.
+This tech stack allows Kraft3D to deliver a high-performance, scalable ecommerce solution optimized for both users and administrators.
 
 ---
+
+**Thank you for visiting Kraft3D!**
