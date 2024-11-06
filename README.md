@@ -28,16 +28,16 @@ Additionally, Kraft3D includes an **Admin Console** for managing everything on m
 |--------------|--------------|
 | ![Product Page](./screenshots/product_page.webp) | ![Product Page2](./screenshots/product_page2.webp) |
 
-| Cart | Checkout |
-|------|----------|
+| User Cart | Check Out |
+|----------------|--------------|
 | ![Cart](./screenshots/cart.webp) | ![Checkout](./screenshots/checkout.webp) |
 
-| Orders Page | Workshop Booking |
-|-------------|------------------|
+| User Orders | Workshops |
+|--------------|--------------|
 | ![Orders Page](./screenshots/orders_page.webp) | ![Workshop Booking](./screenshots/workshop_booking.webp) |
 
 | Admin Console - Order Management | Admin Console - Product Management |
-|----------------------------------|------------------------------------|
+|--------------|--------------|
 | ![Order Management](./screenshots/admin_order_management.webp) | ![Product Management](./screenshots/admin_product_management.webp) |
 
 ---
