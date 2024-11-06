@@ -24,21 +24,21 @@ Additionally, Kraft3D includes an **Admin Console** for managing everything on m
 |--------------|--------------|
 | ![Landing Page](./screenshots/landing_page.png) | ![All Products](./screenshots/all_products.png) |
 
-| Product Page | Cart |
-|--------------|------|
-| ![Product Page](./screenshots/product_page.png) | ![Cart](./screenshots/cart.png) |
+| Product Page | Product Page |
+|--------------|--------------|
+| ![Product Page](./screenshots/product_page.png) | ![Product Page2](./screenshots/product_page2.png) |
 
-| Checkout | Orders Page |
-|----------|-------------|
-| ![Checkout](./screenshots/checkout.png) | ![Orders Page](./screenshots/orders_page.png) |
+| Cart | Checkout |
+|------|----------|
+| ![Cart](./screenshots/cart.png) | ![Checkout](./screenshots/checkout.png) |
 
-| Workshop Booking | Admin Console - Product Management |
-|------------------|------------------------------------|
-| ![Workshop Booking](./screenshots/workshop_booking.png) | ![Product Management](./screenshots/admin_product_management.png) |
+| Orders Page | Workshop Booking |
+|-------------|------------------|
+| ![Orders Page](./screenshots/orders_page.png) | ![Workshop Booking](./screenshots/workshop_booking.png) |
 
-| Admin Console - Order Management |
-|----------------------------------|
-| ![Order Management](./screenshots/admin_order_management.png) |
+| Admin Console - Order Management | Admin Console - Product Management |
+|----------------------------------|------------------------------------|
+| ![Order Management](./screenshots/admin_order_management.png) | ![Product Management](./screenshots/admin_product_management.png) |
 
 ---
 
