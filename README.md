@@ -1,4 +1,4 @@
-# Kraft3D @ [kraft3D.com](https://kraft3d.rudraneeldutta.com)
+# Shop @ [Kraft3D](https://kraft3d.rudraneeldutta.com)
 
 Welcome to **Kraft3D** — India's most affordable e-commerce platform for my range of high-quality 3D-printed products. Explore the shop [here](https://kraft3d.rudraneeldutta.com).
 
