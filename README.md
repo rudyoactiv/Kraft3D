@@ -2,6 +2,10 @@
 
 Welcome to **Kraft3D** — India's most affordable e-commerce platform for my range of high-quality 3D-printed products. Explore the shop [here](https://kraft3d.rudraneeldutta.com).
 
+| [Overview](#-project-overview) | [Pages and Features](#-pages-and-features) | [Tech Stack](#-tech-stack) |
+|--------------------------------|--------------------------------------------|----------------------------|
+
+
 
 ## 📖 Project Overview
 
