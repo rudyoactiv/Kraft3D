@@ -72,4 +72,4 @@ Kraft3D is a high-performance, scalable e-commerce solution optimized for both u
 
 ---
 
-**Check it out @ [kraft3D.com](https://kraft3d.rudraneeldutta.com)**!
+**Check it out @ [Welcome to Kraft3D](https://kraft3d.rudraneeldutta.com)**!
